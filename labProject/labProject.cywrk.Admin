@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="labProject\Signal Generator\Source Files">
+<ExpandedNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\TopDesign</v>
+<v>labProject\Part1\Part1.cydwr</v>
+<v>labProject\Part1\Part1.cydwr\Pins</v>
+<v>labProject\Part1\Part1.cydwr\Analog</v>
+<v>labProject\Part1\Part1.cydwr\Clocks</v>
+<v>labProject\Part1\Part1.cydwr\Interrupts</v>
+<v>labProject\Part1\Part1.cydwr\DMA</v>
+<v>labProject\Part1\Part1.cydwr\System</v>
+<v>labProject\Part1\Part1.cydwr\Directives</v>
+<v>labProject\Part1\Part1.cydwr\Flash Security</v>
+<v>labProject\Part1\Part1.cydwr\EEPROM</v>
+<v>labProject\Part1\Header Files</v>
+<v>labProject\Part1\Header Files\cyapicallbacks.h</v>
+<v>labProject\Part1\Source Files</v>
+<v>labProject\Part1\Source Files\main.c</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\TopDesign</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Pins</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Analog</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Clocks</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Interrupts</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\DMA</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\System</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Directives</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\Flash Security</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr\EEPROM</v>
+<v>labProject\Signal Generator\Header Files</v>
+<v>labProject\Signal Generator\Header Files\cyapicallbacks.h</v>
+<v>labProject\Signal Generator\Source Files\main.c</v>
+<v>labProject\Signal Generator\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\TopDesign</v>
+<v>labProject\Part1\Part1.cydwr</v>
+<v>labProject\Part1\Part1.cydwr\Pins</v>
+<v>labProject\Part1\Part1.cydwr\Analog</v>
+<v>labProject\Part1\Part1.cydwr\Clocks</v>
+<v>labProject\Part1\Part1.cydwr\Interrupts</v>
+<v>labProject\Part1\Part1.cydwr\DMA</v>
+<v>labProject\Part1\Part1.cydwr\System</v>
+<v>labProject\Part1\Part1.cydwr\Directives</v>
+<v>labProject\Part1\Part1.cydwr\Flash Security</v>
+<v>labProject\Part1\Part1.cydwr\EEPROM</v>
+<v>labProject\Part1\Header Files</v>
+<v>labProject\Part1\Header Files\cyapicallbacks.h</v>
+<v>labProject\Part1\Source Files</v>
+<v>labProject\Part1\Source Files\main.c</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\TopDesign</v>
+<v>labProject\Signal Generator\Signal Generator.cydwr</v>
+<v>labProject\Signal Generator\Header Files</v>
+<v>labProject\Signal Generator\Header Files\cyapicallbacks.h</v>
+<v>labProject\Signal Generator\Source Files</v>
+<v>labProject\Signal Generator\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\TopDesign</v>
+<v>labProject\Part1\TopDesign\TopDesign.cysch</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\TopDesign</v>
+<v>labProject\Signal Generator\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\TopDesign</v>
+<v>labProject\Part1\TopDesign\TopDesign.cysch</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\TopDesign</v>
+<v>labProject\Signal Generator\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\Part1.gpdsc</v>
+<v>labProject\Part1\Part1.rpt</v>
+<v>labProject\Part1\Part1_timing.html</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\CortexM3</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC_PM.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_1_dma.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Wave.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.elf</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.hex</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.map</v>
+<v>labProject\Signal Generator\Signal Generator.gpdsc</v>
+<v>labProject\Signal Generator\Signal Generator.rpt</v>
+<v>labProject\Signal Generator\Signal Generator_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\Part1.gpdsc</v>
+<v>labProject\Part1\Part1.rpt</v>
+<v>labProject\Part1\Part1_timing.html</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\CortexM3</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC_PM.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_1_dma.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Listing Files\Wave.lst</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.elf</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.hex</v>
+<v>labProject\Signal Generator\CortexM3\ARM_GCC_541\Debug\Signal Generator.map</v>
+<v>labProject\Signal Generator\Signal Generator.gpdsc</v>
+<v>labProject\Signal Generator\Signal Generator.rpt</v>
+<v>labProject\Signal Generator\Signal Generator_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\PSoC 5LP Architecture TRM</v>
+<v>labProject\Part1\CY8C58LP Family Datasheet</v>
+<v>labProject\Part1\System Reference Guides</v>
+<v>labProject\Part1\System Reference Guides\cy_boot_v5_70</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\PSoC 5LP Architecture TRM</v>
+<v>labProject\Signal Generator\CY8C58LP Family Datasheet</v>
+<v>labProject\Signal Generator\System Reference Guides</v>
+<v>labProject\Signal Generator\System Reference Guides\cy_boot_v5_70</v>
+<v>labProject\Signal Generator\cy_clock_v2_20.pdf</v>
+<v>labProject\Signal Generator\cy_dma_v1_70.pdf</v>
+<v>labProject\Signal Generator\cy_pins_v2_20.pdf</v>
+<v>labProject\Signal Generator\VDAC8_v1_90.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>labProject</v>
+<v>labProject\Part1</v>
+<v>labProject\Part1\PSoC 5LP Architecture TRM</v>
+<v>labProject\Part1\CY8C58LP Family Datasheet</v>
+<v>labProject\Part1\System Reference Guides</v>
+<v>labProject\Part1\System Reference Guides\cy_boot_v5_70</v>
+<v>labProject\Signal Generator</v>
+<v>labProject\Signal Generator\PSoC 5LP Architecture TRM</v>
+<v>labProject\Signal Generator\CY8C58LP Family Datasheet</v>
+<v>labProject\Signal Generator\System Reference Guides</v>
+<v>labProject\Signal Generator\System Reference Guides\cy_boot_v5_70</v>
+<v>labProject\Signal Generator\cy_clock_v2_20.pdf</v>
+<v>labProject\Signal Generator\cy_dma_v1_70.pdf</v>
+<v>labProject\Signal Generator\cy_pins_v2_20.pdf</v>
+<v>labProject\Signal Generator\VDAC8_v1_90.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,6 +1,0 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2c3ff069-8c1e-489b-9230-e65ca77b9e61
-C:\Users\Admin\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|92d32fef-6142-4819-a83e-eb72b011b21d
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ce44f5a1-a462-460d-9641-09ce00e03d0d
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fb8d5182-1e61-4f84-af24-4fbe8f36b592
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d37e7f6f-b220-4976-9896-3fe42bb7f9c9
-C:\Users\Admin\Desktop\lab-project\labProject\Signal Generator.cydsn\Signal Generator.cyprj|f5e0366f-0995-4d38-b662-f3e962a7957e

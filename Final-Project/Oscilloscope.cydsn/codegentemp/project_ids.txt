@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2b80fc09-b10b-4046-a6a6-58168860f158
+C:\Users\Admin\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|9d31e5bb-a934-443e-a7bd-e184574784ba
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3282e7b9-7547-4a20-8766-851e9054145b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3e4e7060-daab-4648-964c-718906eab3de
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6cf2b2cf-6662-49e6-8132-55b5e0f23037
+C:\Users\Admin\Desktop\lab-project\Final-Project\Oscilloscope.cydsn\Oscilloscope.cyprj|5a8a961a-f806-4421-90b3-007ec760f45c
